@@ -18,3 +18,5 @@ I did the same with joining December, Jan and Feb, and exported it to a 'winter 
 I then joined both the summer and winter excel files on another jupyter notebook, and exported it as a new excel file. 
 
 I uploaded this summer/winter combined excel file to Tableau, and this is the file I used for the visualisations 
+
+All the relevant excel files and jupyter notebook files are in this Github repo 
