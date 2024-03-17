@@ -16,6 +16,13 @@ I then used pandas (jupyter notebook) to first individually join June, July and 
 I did the same with joining December, Jan and Feb, and exported it to a 'winter months' excel file.
 I have added a folder with images of all the worksheets, dashboards and story, just incase there is any issue with Tableau Public.
 
+I then joined both the summer and winter excel files on another jupyter notebook, and exported it as a new excel file. 
+
+I uploaded this summer/winter combined excel file to Tableau, and this is the file I used for the visualisations 
+
+All the relevant excel files and jupyter notebook files are in this Github repo 
+
+
 Some findings from the data:
 -almost double the amount of trips are taken in summer as in winter 
 -peak hours don't change too much in summer v winter - the peak evening hour in winter is one hour earlier 
@@ -26,9 +33,3 @@ Hoboken Terminal Hub, they prepare to immediately ride a bike to their next dest
 -from the 'most popular places to end a journey' stat, as well as the average ride distance stat, we see that people take generally rather short trips. They may ride from 
 the Hoboken Terminal a few miles inland, or down the coast of the river. The fact that the largest trip during both summer and winter periods was only 12.65 miles, suggests that
 these CitiBikes are only used for short transportation, possibly as an alternative to taxis, Uber, or Bus.
-
-I then joined both the summer and winter excel files on another jupyter notebook, and exported it as a new excel file. 
-
-I uploaded this summer/winter combined excel file to Tableau, and this is the file I used for the visualisations 
-
-All the relevant excel files and jupyter notebook files are in this Github repo 
