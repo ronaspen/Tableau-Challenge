@@ -9,7 +9,7 @@ I downloaded 6 individual csv files from the Citi Bike Data webpage.
 They were:
 June 2023, July 2023, August 2023 (The summer months)
 as well as 
-December 2023, January 2024, February 2023 (The winter months)
+December 2023, January 2024, February 2024 (The winter months)
 
 I then used pandas (jupyter notebook) to first individually join June, July and August, and export the whole dataset as a 'summer months' excel file 
 
