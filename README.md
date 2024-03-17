@@ -4,7 +4,7 @@ Link to my Tableau Public account: https://public.tableau.com/app/profile/rohit.
 
 Just to explain the dataset I used:
 
-I downlaoded 6 individual csv files from the Citi Bike Data webpage.
+I downloaded 6 individual csv files from the Citi Bike Data webpage.
 
 They were:
 June 2023, July 2023, August 2023 (The summer months)
