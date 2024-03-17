@@ -14,7 +14,6 @@ December 2023, January 2024, February 2024 (The winter months)
 I then used pandas (jupyter notebook) to first individually join June, July and August, and export the whole dataset as a 'summer months' excel file 
 
 I did the same with joining December, Jan and Feb, and exported it to a 'winter months' excel file.
-I have added a folder with images of all the worksheets, dashboards and story, just incase there is any issue with Tableau Public.
 
 I then joined both the summer and winter excel files on another jupyter notebook, and exported it as a new excel file. 
 
@@ -22,6 +21,7 @@ I uploaded this summer/winter combined excel file to Tableau, and this is the fi
 
 All the relevant excel files and jupyter notebook files are in this Github repo 
 
+I have added a folder with images of all the worksheets, dashboards and story, just incase there is any issue with Tableau Public.
 
 Some findings from the data:
 -almost double the amount of trips are taken in summer as in winter 
